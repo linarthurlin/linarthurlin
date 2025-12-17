@@ -52,6 +52,8 @@ University of California, San Diego
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![V-REP/CoppeliaSim](https://img.shields.io/badge/V--REP%2FCoppeliaSim-0066CC?style=flat-square&logo=v&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-000000?style=flat-square&logo=autonomous&logoColor=white)
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) -->
 
 **Web Development**  
