@@ -7,9 +7,9 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎓 Education & Role
 **ECE Master's Student**  
@@ -27,7 +27,7 @@ University of California, San Diego
 - Sensor Fusion & Localization
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 💻 Technical Expertise
 
