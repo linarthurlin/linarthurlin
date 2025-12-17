@@ -1,75 +1,81 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arthur%20Lin&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things;Building+Something+Amazing)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yih-Cherng%20Lin&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
-```javascript
-const arthurlin = {
-    location: "Your Location",
-    currentFocus: "Building scalable web applications",
-    learning: ["Advanced React Patterns", "Cloud Architecture", "AI/ML"],
-    askMeAbout: ["Web Development", "System Design", "Best Practices"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "TailwindCSS"],
-        backEnd: ["Python", "Node.js", "Express"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "Git", "AWS"],
-        tools: ["VS Code", "Figma", "Postman"]
-    },
-    funFact: "I debug in my sleep 🐛💤"
-};
-```
+<table>
+<tr>
+<td width="50%">
 
-### 🎯 Current Goals for 2025
-- 🚀 Contribute to 10+ open source projects
-- 📚 Master cloud architecture and microservices
-- 🎓 Share knowledge through technical blogs
-- 🤝 Mentor aspiring developers
+### 🎓 Education & Role
+**ECE Master's Student**  
+University of California, San Diego  
+📍 San Diego, CA | 🇹🇼 Taiwan
 
-## 🛠️ Tech Stack & Skills
+### 🔬 Research Focus
+- 🚗 **Autonomous Driving**
+- 👁️ **Computer Vision**
+- 🤖 **Machine Learning & Robotics**
 
+### 🎯 Current Learning
+- Autonomous Vehicle Systems
+- Deep Learning Architectures
+- Sensor Fusion & Localization
+
+</td>
+<td width="50%">
+
+### 💻 Technical Expertise
+
+**Core Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**AI/ML Stack**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Embedded Systems**  
+<!-- ![Embedded](https://img.shields.io/badge/Real--Time_OS-00979D?style=flat-square&logo=embarcadero&logoColor=white) -->
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-0066CC?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Tools & Frameworks**  
+<!-- ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) -->
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) -->
+
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🌟 Interests & Passion
 <div align="center">
 
-### 💻 Languages & Frameworks
-
-
-### 💻 Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🚗 **Self-Driving Cars** • 🤖 **Robotics** • 🧠 **Artificial Intelligence** • 📡 **Signal Processing** • 🔧 **Hardware-Software Integration**
 
 </div>
 
----
+### 🎯 Current Goals
+
+- Complete my Master's degree at UCSD in ECE
+- Learn autonomous driving knowledge
+- Gain more practical project or research experiences
 
 ## 📊 GitHub Analytics
 
@@ -77,7 +83,7 @@ const arthurlin = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linarthurlin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-## 💼 Featured Projects
+<!-- ## 💼 Featured Projects
 
 <table width="100%">
 <tr>
@@ -124,7 +130,7 @@ Brief description of what this project does and the problem it solves. Highlight
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ## 🤝 Let's Connect
 
