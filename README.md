@@ -9,7 +9,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🎓 Education & Role
 **ECE Master's Student**  
@@ -27,7 +27,7 @@ University of California, San Diego
 - Sensor Fusion & Localization
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 💻 Technical Expertise
 
